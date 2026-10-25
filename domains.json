@@ -1,5 +1,7 @@
 {
-  "domains": ["www.ligtvizlesene60.fr"],
-  "title": "Yeni adresimiz",
-  "message": "Siteye yeni adresten ulaşabilirsiniz."
+  "title": "Ligtvizlesene yeni adresi iyi seyirler",
+  "message": "maç canli yayini.",
+  "desktop": ["https://www.ligtvizlesene60.fr"],
+  "mobile": ["https://www.mobilmacizle.it"],
+  "domains": ["https://www.ligtvizlesene60.fr"]
 }
